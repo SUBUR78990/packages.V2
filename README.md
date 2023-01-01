@@ -124,10 +124,10 @@ termux-setup-storage.
    $ apt install python 
    ```
    ```
-   $ git clone https://github.com/SUBUR78990/packages.git
+   $ git clone https://github.com/SUBUR78990/packages.V2.git
    ```
    ```
-   $ cd packages
+   $ cd packages.V2
    ```
    ```
    $ ls
@@ -139,7 +139,7 @@ termux-setup-storage.
    $ ls
    ```
    ```
-   $ python packages.py
+   $ python packagesV2.py
 ```
 
 This will take too much time it's depends on your data connection. 
