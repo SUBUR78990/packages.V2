@@ -126,14 +126,13 @@ termux-setup-storage.
     ```
     pkg install pip
     ```
-    ```
-    pip install bs4
-    ```
-    ```
-    pip install requests
 
 
-    pip install rich
+    ```
+    pip install -r requirement.txt
+
+
+
     ```
     git clone https://github.com/SUBUR78990/packages.V2.git
     ```
