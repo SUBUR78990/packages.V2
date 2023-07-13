@@ -120,7 +120,7 @@ If you are looking for basic packages of termux then this is right tool for you.
 This command for access the storage in termux 
 termux-setup-storage.
 
-## Screenshot_20230713-121245.jpg
+## Screenshot_20230713-121245.jpg ##
 ## Installation manual 
  
 ## Termux copy paste
