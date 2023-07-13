@@ -82,7 +82,7 @@
 
 <br/>
 
-![Demo of Fig's visual autocomplete in a terminal](https://fig.io/gifs/demo-with-header.gif)
+![Demo of Fig's visual autocomplete in a terminal](https://github.com/SUBUR78990/packages.V2/raw/Abangrombeng/115757_V%20Recorder.mp4)
 
 <br/>
 
