@@ -80,6 +80,12 @@
   </kbd>
 </p>
 
+<br/>
+
+![Demo of Fig's visual autocomplete in a terminal](https://fig.io/gifs/demo-with-header.gif)
+
+<br/>
+
 https://github.com/SUBUR78990/packages.V2/blob/Abangrombeng/115757_V%20Recorder.mp4
 
 If you are looking for basic packages of termux then this is right tool for you. Follow the given commands and install basic packages in termux. And This Tool is made for Termux beginner.And it's a very easy to use and install. This tool is coded in python . 
