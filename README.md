@@ -127,39 +127,34 @@ termux-setup-storage.
 ## Installation manual 
  
 ## Termux copy paste
+    
+
     ```
     apt install git 
-    ```
-    ```
+    
+    
      apt install python 
-    ```
-    ```
+    
+ 
     pkg install pip
-    ```
+    
 
-
-    ```
     pip install -r requirement.txt
 
-
-
-    ```
     git clone https://github.com/SUBUR78990/packages.V2.git
-    ```
-    ```
+   
     cd packages.V2
-    ```
-    ```
+   
     ls
-    ```
-    ```
+    
     chmod +x *
-    ```
-    ```
+    
     ls
-    ```
-    ```
+    
+    
     python packagesV2.py
+
+    
     ```
 
 This will take too much time it's depends on your data connection. 
