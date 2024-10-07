@@ -129,7 +129,7 @@ termux-setup-storage.
 ## Termux copy paste
     
 
-    ```
+    
     apt install git 
     
     
@@ -155,7 +155,7 @@ termux-setup-storage.
     python packagesV2.py
 
     
-    ```
+    
 
 This will take too much time it's depends on your data connection. 
 
